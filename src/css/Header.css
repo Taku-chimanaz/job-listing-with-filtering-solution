@@ -1,0 +1,5 @@
+header {
+    height: 20vh;
+    background: linear-gradient(hsl(180, 29%, 50%), hsl(180, 29%, 50%)), url('./../images/bg-header-desktop.svg');
+    background-blend-mode: hard-light;
+}
